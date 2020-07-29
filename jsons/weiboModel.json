@@ -1,0 +1,21 @@
+{
+  "weiboId": "",
+  "categoryId": "",
+  "content": "",
+  "zfContent": "",
+  "zfNick": "",
+  "zfUserId": "",
+  "zfWeiBoId": "",
+  "zfVedioUrl": "",
+  "vediourl": "",
+  "tail": "",
+  "containZf": false,
+  "createtime": 0,
+  "zanStatus": 0,
+  "zhuanfaNum": 0,
+  "likeNum": 0,
+  "commentNum": 0,
+  "userInfo": "$userInfo",
+  "picurl": "$[]String",
+  "zfPicurl": "$[]String"
+}
