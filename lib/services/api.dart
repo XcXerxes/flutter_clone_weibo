@@ -30,4 +30,8 @@ class ServiceUrl {
       Constant.baseUrl + 'hrlfind/getHotSearchList.do'; //热搜列表
 
   static String getVideoDetailRecommendList =Constant.baseUrl + 'manage/hrlvedio/videodetailrecommedlist.do'; //视频详情-推荐列表
+
+  static String getWeiBoDetailComment =Constant.baseUrl + 'hrlcomment/gainCommentsList.do'; //微博详情评论(分页获取评论)
+
+  static String getWeiBoCommentReplyList =Constant.baseUrl + 'hrlcomment/gainCommentsReplyList.do'; //获取微博评论回复列表
 }
